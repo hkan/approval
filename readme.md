@@ -1,5 +1,10 @@
 # Approval
+![Build status](https://travis-ci.org/hkan/approval.svg?branch=master)
+
 Content approval system for Laravel. Works just like Laravel's own soft deleting system.
+
+## Requirements
+PHP >= 5.5
 
 ## Installation
 **Step 1:** Add the following line to your `composer.json`'s `require` array.
